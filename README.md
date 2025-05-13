@@ -20,7 +20,6 @@
         <li>2 cups shredded mozzarella cheese</li>
         <li>Your choice of toppings (pepperoni, bell peppers, onions, etc.)</li>
     </ul>
-
     <h2>Instructions</h2>
     <ol>
         <li>In a bowl, combine warm water, sugar, and yeast. Let it sit for 5-10 minutes until frothy.</li>
@@ -33,7 +32,6 @@
         <li>Add pizza sauce, cheese, and your choice of toppings.</li>
         <li>Bake for 12-15 minutes or until the crust is golden brown.</li>
     </ol>
-
     <h2>Enjoy your homemade pizza!</h2>
 </body>
 </html>
